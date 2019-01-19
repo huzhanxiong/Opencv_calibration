@@ -1,0 +1,2 @@
+# Opencv_calibration
+基于Opencv的一个相机标定参数获取以及图像畸变矫正，以及其他一些相关程序。
